@@ -5,8 +5,6 @@ VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_practice", "Demo_practice\Demo_practice.csproj", "{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api", "api", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDemoChecker", "..\..\ApiDemoChecker\ApiDemoChecker.csproj", "{C5363CB9-5C07-4547-9CCA-FC8A0D127669}"
 EndProject
 Global
@@ -26,9 +24,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{C5363CB9-5C07-4547-9CCA-FC8A0D127669} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DB944D26-B174-4C5E-BE7C-681E4FB36157}
