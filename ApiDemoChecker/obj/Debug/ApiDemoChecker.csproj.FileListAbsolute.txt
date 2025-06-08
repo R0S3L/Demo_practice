@@ -1,0 +1,30 @@
+D:\Рабочий стол\repos\ApiDemoChecker\bin\Debug\ApiDemoChecker.exe.config
+D:\Рабочий стол\repos\ApiDemoChecker\bin\Debug\ApiDemoChecker.exe
+D:\Рабочий стол\repos\ApiDemoChecker\bin\Debug\ApiDemoChecker.pdb
+D:\Рабочий стол\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker.csproj.AssemblyReference.cache
+D:\Рабочий стол\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker.csproj.ResolveComReference.cache
+D:\Рабочий стол\repos\ApiDemoChecker\obj\Debug\MainWindow.baml
+D:\Рабочий стол\repos\ApiDemoChecker\obj\Debug\MainWindow.g.cs
+D:\Рабочий стол\repos\ApiDemoChecker\obj\Debug\App.g.cs
+D:\Рабочий стол\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker_MarkupCompile.cache
+D:\Рабочий стол\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker.g.resources
+D:\Рабочий стол\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker.Properties.Resources.resources
+D:\Рабочий стол\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker.csproj.GenerateResource.cache
+D:\Рабочий стол\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker.exe
+D:\Рабочий стол\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker.pdb
+C:\Users\Майя\source\repos\ApiDemoChecker\bin\Debug\ApiDemoChecker.exe.config
+C:\Users\Майя\source\repos\ApiDemoChecker\bin\Debug\ApiDemoChecker.exe
+C:\Users\Майя\source\repos\ApiDemoChecker\bin\Debug\ApiDemoChecker.pdb
+C:\Users\Майя\source\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker.csproj.AssemblyReference.cache
+C:\Users\Майя\source\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker.csproj.ResolveComReference.cache
+C:\Users\Майя\source\repos\ApiDemoChecker\obj\Debug\MainWindow.baml
+C:\Users\Майя\source\repos\ApiDemoChecker\obj\Debug\MainWindow.g.cs
+C:\Users\Майя\source\repos\ApiDemoChecker\obj\Debug\App.g.cs
+C:\Users\Майя\source\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker_MarkupCompile.cache
+C:\Users\Майя\source\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker.g.resources
+C:\Users\Майя\source\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker.Properties.Resources.resources
+C:\Users\Майя\source\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker.csproj.GenerateResource.cache
+C:\Users\Майя\source\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker.csproj.CoreCompileInputs.cache
+C:\Users\Майя\source\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker.exe
+C:\Users\Майя\source\repos\ApiDemoChecker\obj\Debug\ApiDemoChecker.pdb
