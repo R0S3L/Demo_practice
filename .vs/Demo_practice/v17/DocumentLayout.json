@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\",
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|c:\\users\\\u043C\u0430\u0439\u044F\\source\\repos\\demo_practice\\demo_practice\\update.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|c:\\users\\\u043C\u0430\u0439\u044F\\source\\repos\\demo_practice\\ekz\\demo_practice\\update.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|solutionrelative:demo_practice\\update.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|c:\\users\\\u043C\u0430\u0439\u044F\\source\\repos\\demo_practice\\demo_practice\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\demo_practice\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|solutionrelative:demo_practice\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|c:\\users\\\u043C\u0430\u0439\u044F\\source\\repos\\demo_practice\\demo_practice\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\demo_practice\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|solutionrelative:demo_practice\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|c:\\users\\\u043C\u0430\u0439\u044F\\source\\repos\\demo_practice\\demo_practice\\update.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\demo_practice\\update.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|solutionrelative:demo_practice\\update.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|c:\\users\\\u043C\u0430\u0439\u044F\\source\\repos\\demo_practice\\demo_practice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\demo_practice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|solutionrelative:demo_practice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|c:\\users\\\u043C\u0430\u0439\u044F\\source\\repos\\demo_practice\\demo_practice\\add.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\demo_practice\\add.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|solutionrelative:demo_practice\\add.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|c:\\users\\\u043C\u0430\u0439\u044F\\source\\repos\\demo_practice\\demo_practice\\add.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\demo_practice\\add.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|solutionrelative:demo_practice\\add.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -44,14 +44,13 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\Demo_practice\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Demo_practice\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\Demo_practice\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\MainWindow.xaml",
               "RelativeToolTip": "Demo_practice\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-07T11:32:34.239Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -81,34 +80,32 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Add.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\Demo_practice\\Add.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\Add.xaml",
               "RelativeDocumentMoniker": "Demo_practice\\Add.xaml",
-              "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\Demo_practice\\Add.xaml",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\Add.xaml",
               "RelativeToolTip": "Demo_practice\\Add.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-07T18:01:05.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T18:01:05.741Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\Demo_practice\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Demo_practice\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\Demo_practice\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\MainWindow.xaml.cs",
               "RelativeToolTip": "Demo_practice\\MainWindow.xaml.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAhwCIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T11:32:33.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T11:32:33.772Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "update.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\Demo_practice\\update.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\update.xaml.cs",
               "RelativeDocumentMoniker": "Demo_practice\\update.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\Demo_practice\\update.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\update.xaml.cs",
               "RelativeToolTip": "Demo_practice\\update.xaml.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAmwCYAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,39 +116,36 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Add.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\Demo_practice\\Add.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\Add.xaml.cs",
               "RelativeDocumentMoniker": "Demo_practice\\Add.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\Demo_practice\\Add.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\Add.xaml.cs",
               "RelativeToolTip": "Demo_practice\\Add.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T18:01:07.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T18:01:07.019Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "update.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\Demo_practice\\update.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\update.xaml",
               "RelativeDocumentMoniker": "Demo_practice\\update.xaml",
-              "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\Demo_practice\\update.xaml",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\update.xaml",
               "RelativeToolTip": "Demo_practice\\update.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-07T17:49:29.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T17:49:29.882Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Connect.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\Demo_practice\\Connect.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\Connect.cs",
               "RelativeDocumentMoniker": "Demo_practice\\Connect.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\Demo_practice\\Connect.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\Connect.cs",
               "RelativeToolTip": "Demo_practice\\Connect.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T11:36:10.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T11:36:10.827Z"
             }
           ]
         },
