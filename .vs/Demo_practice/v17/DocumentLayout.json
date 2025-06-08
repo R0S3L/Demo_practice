@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C5363CB9-5C07-4547-9CCA-FC8A0D127669}|..\\..\\ApiDemoChecker\\ApiDemoChecker.csproj|c:\\users\\\u043C\u0430\u0439\u044F\\source\\repos\\apidemochecker\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5363CB9-5C07-4547-9CCA-FC8A0D127669}|..\\..\\ApiDemoChecker\\ApiDemoChecker.csproj|c:\\users\\\u043C\u0430\u0439\u044F\\source\\repos\\apidemochecker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|c:\\users\\\u043C\u0430\u0439\u044F\\source\\repos\\demo_practice\\ekz\\demo_practice\\update.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{D2690BBB-7733-4DC7-9F4C-F94C6B0DDF29}|Demo_practice\\Demo_practice.csproj|solutionrelative:demo_practice\\update.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
@@ -38,11 +44,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Demo_practice\\MainWindow.xaml",
@@ -51,6 +57,31 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-07T11:32:34.239Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\ApiDemoChecker\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\ApiDemoChecker\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\ApiDemoChecker\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\ApiDemoChecker\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T18:29:38.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\ApiDemoChecker\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\..\\ApiDemoChecker\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\ApiDemoChecker\\MainWindow.xaml",
+              "RelativeToolTip": "..\\..\\ApiDemoChecker\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T18:29:34.587Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -78,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Add.xaml",
               "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\Add.xaml",
               "RelativeDocumentMoniker": "Demo_practice\\Add.xaml",
@@ -89,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Demo_practice\\MainWindow.xaml.cs",
@@ -101,20 +132,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "update.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\update.xaml.cs",
               "RelativeDocumentMoniker": "Demo_practice\\update.xaml.cs",
               "ToolTip": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\update.xaml.cs",
               "RelativeToolTip": "Demo_practice\\update.xaml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAmwCYAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T17:52:19.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Add.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\Add.xaml.cs",
               "RelativeDocumentMoniker": "Demo_practice\\Add.xaml.cs",
@@ -126,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "update.xaml",
               "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\update.xaml",
               "RelativeDocumentMoniker": "Demo_practice\\update.xaml",
@@ -137,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Connect.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0439\u044F\\source\\repos\\Demo_practice\\ekz\\Demo_practice\\Connect.cs",
               "RelativeDocumentMoniker": "Demo_practice\\Connect.cs",
